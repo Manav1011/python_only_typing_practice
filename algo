@@ -3,6 +3,8 @@ First display the para
 Underline the current letter of the current word
 (We have to track current word and inside the word current letter)
 
+Every keystroke change the cursor position
+
 when user presses space change the current word to next word
 
 when user types with each ke stroke the current letter index increments to one 
